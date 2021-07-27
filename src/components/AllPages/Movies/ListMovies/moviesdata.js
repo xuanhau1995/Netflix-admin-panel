@@ -1,0 +1,46 @@
+export const dataMovies = [
+  {
+    adult: false,
+    id: "1",
+    original_title: "The Queen of Flow (2018)",
+    overview:
+      "After spending seventeen years in prison unfairly, a talented songwriter seeks revenge on the men who sank her and killed her family.",
+    status: "Actived",
+    popularity: "10021.745",
+    poster_path:
+      "https://www.themoviedb.org/t/p/w1280/fuVuDYrs8sxvEolnYr0wCSvtyTi.jpg",
+    release_date: "2021-07-08",
+    video: "",
+    vote_average: "7.9",
+    vote_count: "979",
+    backdrop_path: "",
+    userScore: "80",
+    categories: "Drama",
+    original_language: "English",
+    episode: "12 Episode",
+    director: "Andres Salgado",
+    cast: "Andres Sandoval, Carlos Torres, ",
+  },
+  {
+    adult: false,
+    id: "1",
+    original_title: "The Queen of Flow (2018)",
+    overview:
+      "After spending seventeen years in prison unfairly, a talented songwriter seeks revenge on the men who sank her and killed her family.",
+    status: "Inprocess",
+    popularity: "10021.745",
+    poster_path:
+      "https://www.themoviedb.org/t/p/w1280/fuVuDYrs8sxvEolnYr0wCSvtyTi.jpg",
+    release_date: "2021-07-08",
+    video: "",
+    vote_average: "7.9",
+    vote_count: "979",
+    backdrop_path: "",
+    userScore: "80",
+    categories: "Drama",
+    original_language: "English",
+    episode: "12 Episode",
+    director: "Andres Salgado",
+    cast: "Andres Sandoval, Carlos Torres, Carlos Torres,Carlos Torres, ",
+  },
+];
